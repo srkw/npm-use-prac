@@ -1,0 +1,15 @@
+{
+  "name": "npm-use-prac",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@cybozu/eslint-config": "^12.0.2",
+    "@srkw/js-rules": "^0.0.2",
+    "@srkw/eslint-config": "^0.0.4",
+    "@srkw/prettier-config": "^0.0.8",
+    "eslint": "^7.23.0",
+    "eslint-plugin-import": "^2.22.1",
+    "prettier": "^2.2.1"
+  }
+}
