@@ -172,10 +172,10 @@
   resolved "https://npm.pkg.github.com/download/@srkw/eslint-config/0.0.4/0712e6ca7770e421e239b987d768e29c8d8b5e42d1eb500b9c1e91efd1909c99#05140f253d7bc195be29b95aa7551ed042319d66"
   integrity sha512-G/5NSXAMBTgkHh9J4dodkeh6QsQm/dLAhFvsRJqGHz5vQ2HeEoOqMvLWr+K0ygZT8NJDcutKCotCYumBfnuW8A==
 
-"@srkw/js-rules@^0.0.2":
-  version "0.0.2"
-  resolved "https://npm.pkg.github.com/download/@srkw/js-rules/0.0.2/1b3cdf52a50ec7c31544080f6be55573f96180d262371b71eb99f660e3fc6e9f#9840da76faa78e173bf64cb6b7756acc92bae525"
-  integrity sha512-OPQvZrOl6vq8R5HWZ9bjXcsS6wppILzO8uhRFj9KYrkrZorOQ7DVR2f7PGoitkLRT+6yCqKYLdvGIQj2KwgkmQ==
+"@srkw/js-rules@^2.0.5":
+  version "2.0.5"
+  resolved "https://npm.pkg.github.com/download/@srkw/js-rules/2.0.5/f7c39838b780433db37d61e905f0872144eaf549e27d2d180c4d435ae15eb509#c7c266dc6ead0ed807c8cd23d0be3954bfa44f08"
+  integrity sha512-t9erqICAaPt4YxepYzLtXvOYupfO70oXyNzG47ajY5YV16Rjn2N3AF6BPy/FmyKISaopiuS03Ge7WEijAnk5kg==
 
 "@srkw/prettier-config@^0.0.8":
   version "0.0.8"
